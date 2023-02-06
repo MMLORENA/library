@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","sources":["../src/components/Button/Button.tsx"],"sourcesContent":["import React from \"react\";\n\nconst ButtonTest = (): JSX.Element => <button />;\n\nexport default ButtonTest;\n"],"names":["ButtonTest","_jsx"],"mappings":"wCAEA,IAAMA,EAAa,WAAmB,OAAAC,EAAU,SAAA,CAAA,EAAA"}
